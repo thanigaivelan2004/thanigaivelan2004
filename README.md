@@ -30,9 +30,9 @@
 | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black) | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) | ![Seaborn](https://img.shields.io/badge/-Seaborn-9E8C9F?style=flat&logo=seaborn&logoColor=white) | | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) |
 | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) | ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) | | | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ||
 
-| **DevOps & Tools**                     | **Cloud**                                  |
-| -------------------------------------  | ----------------------------------------  |
-| ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) |
+| **DevOps & Tools**                     | 
+| -------------------------------------  | 
+| ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) | 
 | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) | |
 | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | |
 | ![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white) | |
